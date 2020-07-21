@@ -21,7 +21,6 @@ npm run start
 Problem installing it?,run it in a container using docker:
 ```
 docker pull codeops09/hotel-singapore-v1
-
 ```
 
 Details :
