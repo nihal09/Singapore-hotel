@@ -1,4 +1,4 @@
-A pseudo full stack application for Singapore Hotel Listings,with backend exposing APIs containing the hotel listing which front end consumes and list them. Implemented functionality to search hotel
+A pseudo full stack application for Singapore Hotel Listings,with backend exposing APIs using Spring Boot containing the hotel listing which front end (React Js) consumes and list them. Implemented functionality to search hotel
 by name, sort articles by price, filter based on region.
 
 ## Includes
